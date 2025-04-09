@@ -1,5 +1,4 @@
-// const randomNumber = Math.floor(Math.random() * 100) + 1;
-const randomNumber = 12;
+const randomNumber = Math.floor(Math.random() * 100) + 1;
 let userGuess = null;
 
 while (userGuess != randomNumber) {
